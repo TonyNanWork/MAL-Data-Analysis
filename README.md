@@ -1,11 +1,11 @@
 # CMPT353_MAL
 Analyzing patterns within the My Anime List dataset.
 
-Exploring the data
+## Exploring the data
 
-Hypothesis testing
+## Hypothesis testing
 
-Drawing Conclusions
+## Drawing Conclusions
 
 
 Python version: 3.11
