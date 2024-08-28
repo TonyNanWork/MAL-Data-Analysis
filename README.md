@@ -1,5 +1,6 @@
 # CMPT353_MAL
-Repository for CMPT 353 MyAnimeList dataset project
+Analyzing patterns within the My Anime List dataset.
+
 
 Python version: 3.11
 
