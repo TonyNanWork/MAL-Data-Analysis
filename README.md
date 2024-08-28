@@ -2,7 +2,7 @@
 Analyzing patterns within the My Anime List dataset.
 
 ## Exploring the data
-![alt text](https://github.com/TonyNanWork/MAL-Data-Analysis/blob/main/Images/rating%20diff.png)
+![alt text](https://github.com/TonyNanWork/MAL-Data-Analysis/blob/main/Images/ratings)
 
 ## Hypothesis testing
 
